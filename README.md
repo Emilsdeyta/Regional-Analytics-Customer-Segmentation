@@ -1,10 +1,10 @@
-# Customer Segmentation — E-Commerce Retail
+# Customer Segmentation 
 
 Unsupervised machine learning project to segment customers based on their browsing and purchasing behavior. Built with a real e-commerce dataset, inspired by retail chains like Bravo and Araz.
 
 ## Overview
 
-The goal is to group ~100,000 customers into meaningful segments so marketing teams can target each group differently — instead of sending the same message to everyone.
+The goal is to group 100,000 customers into meaningful segments so marketing teams can target each group differently instead of sending the same message to everyone.
 
 The model uses behavioral features beyond basic RFM, including how focused a customer's category browsing is, how efficiently they convert sessions into purchases, and whether they tend to shop on weekends.
 
@@ -48,7 +48,7 @@ The model uses behavioral features beyond basic RFM, including how focused a cus
 
 ## Results
 
-Clusters are statistically distinct across all main features. The VIP segment (cluster 1) is small but drives a disproportionate share of revenue — a classic Pareto pattern.
+Clusters are statistically distinct across all main features. The VIP segment (cluster 1) is small but drives a disproportionate share of revenue a classic Pareto pattern.
 
 ## How to Run
 
