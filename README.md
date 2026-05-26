@@ -56,8 +56,6 @@ Clusters are statistically distinct across all main features. The VIP segment (c
 pip install kagglehub scikit-learn pandas numpy matplotlib seaborn scipy
 ```
 
-Open `Customer_Segmentation.ipynb` in Google Colab or Jupyter. The dataset downloads automatically via `kagglehub`.
-
 ## Libraries
 
 - `scikit-learn` — KMeans, PCA, RobustScaler, silhouette_score
